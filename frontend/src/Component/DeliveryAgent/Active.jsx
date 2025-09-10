@@ -1,5 +1,5 @@
 import React from 'react'
-import style from '../DeliveryAgent/DeliveryAgent.module.css'
+import style from './DeliveryAgent.module.css'
 import icon from '../../asset/order_icon.webp';
 import img from '../../asset/delivery_agent.png';
 import { useNavigate } from 'react-router-dom';

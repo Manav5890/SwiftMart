@@ -1,5 +1,5 @@
 import React, { useContext, useState } from "react";
-import style from "../navbar1/MainNavbar1.module.css";
+import style from "./MainNavbar1.module.css";
 import { globalvar } from "../../GlobalContext/GlobalContext";
 
 const MainNavBar1 = () => {

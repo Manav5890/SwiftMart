@@ -5,7 +5,7 @@ import img3 from "../../asset/img3.webp"
 import img4 from "../../asset/img4.webp"
 import img5 from "../../asset/img5.webp"
 import img6 from "../../asset/img6.webp"
-import style from "../sidebar/sidebar.module.css"
+import style from "./Sidebar.module.css"
 import { Link } from "react-router-dom"
 import { globalvar } from '../../GlobalContext/GlobalContext'
 import { MdDelete } from "react-icons/md";

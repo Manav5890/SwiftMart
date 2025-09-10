@@ -5,7 +5,7 @@ import { IoCartOutline } from "react-icons/io5";
 import { CiSearch } from "react-icons/ci";
 import logo from "../../asset/logo.jpg";
 import { globalvar } from "../../GlobalContext/GlobalContext";
-import style from "../navbar/MainNavbar.module.css";
+import style from "./MainNavbar.module.css";
 
 const useTypewriter = (texts, speed = 100, pause = 1000) => {
   const [currentText, setCurrentText] = useState("");

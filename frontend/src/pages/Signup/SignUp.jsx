@@ -1,6 +1,6 @@
 
 import React, { useContext, useEffect, useState } from "react";
-import style from "../Signup/SignUp.module.css";
+import style from "./Signup.module.css";
 import { globalvar } from "../../GlobalContext/GlobalContext";
 import axios from "axios";
 import toast from "react-hot-toast";

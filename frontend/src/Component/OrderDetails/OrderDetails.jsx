@@ -1,5 +1,5 @@
 import React, { useContext,useState } from "react";
-import styles from "../OrderDetails/orderdetails.module.css";
+import styles from "./orderdetails.module.css";
 import { MdArrowBack } from "react-icons/md";
 import { globalvar } from "../../GlobalContext/GlobalContext";
 import { useLocation } from "react-router-dom";

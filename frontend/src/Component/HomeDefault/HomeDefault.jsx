@@ -1,5 +1,5 @@
 import React from 'react'
-import style from "../HomeDefault/homeDefault.module.css"
+import style from "./homeDefault.module.css"
 import SideBar from '../sidebar/SideBar'
 import ProductContainer from '../Productcontainer/ProductContainer'
 const HomeDefault = () => {

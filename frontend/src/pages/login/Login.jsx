@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useContext } from 'react';
-import style from '../Login/Login.module.css';  
+import style from './Login.module.css';  
 import { globalvar } from '../../GlobalContext/GlobalContext';
 import { Link } from 'react-router-dom';
 import toast from 'react-hot-toast';
